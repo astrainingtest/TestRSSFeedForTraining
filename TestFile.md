@@ -1,4 +1,6 @@
-austra2023-20Test file
+Test file
+
+RSS Feed: https://github.com/astrainingtest/TestRSSFeedForTraining/commits/main/TestFile.md.atom
 
 Change #1
 
